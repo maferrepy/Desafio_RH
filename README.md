@@ -28,4 +28,4 @@ Resultados:
 
 A análise permitiu identificar os principais fatores que contribuíam para os desligamentos, como insatisfação com o ambiente de trabalho e falta de oportunidades de crescimento.
 As recomendações baseadas na análise ajudaram a empresa a implementar medidas para melhorar a retenção de funcionários, resultando em uma redução de 15% na taxa de desligamentos nos seis meses seguintes."
-![Descrição da Imagem](/content/idade_x_Quantidade_funcionarios.png)
+
